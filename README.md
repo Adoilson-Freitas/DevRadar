@@ -4,8 +4,13 @@ DevRadar, uma aplicação que permite cadastrar Dev's apartir da API do github p
 
 ## Tecnologias utilizadas
 - Node.js
-- React
+- Socket.io
+- Mongoose
+- Express
+- React.js
+- socket.io-client
 - React Native
+- react-native-maps
 - Expo
 
 ![tela1devRadar](https://user-images.githubusercontent.com/56658900/77959609-40c85180-72ad-11ea-9fdf-9868f9f3b98e.png)
