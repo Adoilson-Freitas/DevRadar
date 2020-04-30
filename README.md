@@ -8,6 +8,7 @@ DevRadar, uma aplicação que permite cadastrar Dev's apartir da API do github p
 - Mongoose
 - Express
 - React.js
+- Axios
 - socket.io-client
 - React Native
 - react-native-maps
